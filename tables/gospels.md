@@ -71,12 +71,22 @@ The Synoptic Gospels follow similar timelines. Rolls **10–34** direct you to k
 
 ---
 
-## 📖 Reader's Choice & Favorites (Rolls 46–57)
+## 🎯 Jesus' Major Discourses & Theological Themes (Rolls 46-57)
 
-| Roll | Option                              | Description                                    |
-|------|--------------------------------------|----------------------------------------------|
-| 46–57| Reader's Choice from Any Gospel      | Pick your favorite chapter from Matt/Mark/Luke/John |
-
+| Roll | Discourse/Theme | Primary Text | Focus |
+|------|-----------------|--------------|--------|
+| 46 | Sermon on the Mount I | Matt 5:1-20 | Beatitudes & Righteousness |
+| 47 | Sermon on the Mount II | Matt 5:21-48 | Fulfilling the Law |
+| 48 | Sermon on the Mount III | Matt 6:1-34 | True Worship & Prayer |
+| 49 | Sermon on the Mount IV | Matt 7:1-29 | Wise Living & Two Foundations |
+| 50 | Parables of the Kingdom | Matt 13:1-52 | Heaven's Mysteries Revealed |
+| 51 | Mission Discourse | Matt 10:1-42 | Sending the Twelve |
+| 52 | Woes & Warnings | Matt 23:1-39 | Religious Hypocrisy |
+| 53 | Olivet Discourse | Matt 24:1-51 | End Times & Readiness |
+| 54 | Olivet Discourse II | Matt 25:1-46 | Parables of Preparation |
+| 55 | Upper Room Teaching I | John 14:1-31 | Comfort & the Way |
+| 56 | Upper Room Teaching II | John 15:1-16:33 | Vine, Spirit & Persecution |
+| 57 | High Priestly Prayer | John 17:1-26 | Jesus Prays for His Own |
 ---
 
 ## 🔷 Gospel of John: Early Ministry & Signs (Rolls 58–69)
@@ -100,4 +110,4 @@ John's Gospel offers unique theological insights and records events not found in
 ---
 [🔙 Back to Tables Guide](/tables/)
 
-Note: Special thanks to ChatGPT 4o and Claude Sonnet Extended thinking mode. I have had this fail multiple times as a prompt engineer (Jolly)
+Note: Special thanks to ChatGPT 4o and Claude Sonnet Extended thinking mode. I have had this fail multiple times as a prompt engineer. Claudes' extended worked over the gospels a second whole time for dice rolls 46-57 selecting theological subjects. -Jolly
