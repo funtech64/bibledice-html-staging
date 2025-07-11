@@ -2,16 +2,7 @@
 layout: default
 title: Psalm 119 Stanza Guide
 permalink: /tables/psalm119/
-canonical_url: https://bibledice.fun/tables/psalm119.html
 ---
-
-<nav class="breadcrumb">
-    <a href="/">Home</a>
-    <span class="breadcrumb-separator">→</span>
-    <a href="/tables/">Study Tables</a>
-    <span class="breadcrumb-separator">→</span>
-    <span>Psalm 119</span>
-</nav>
 
 # ✡️ Psalm 119 Stanza Guide
 
@@ -57,15 +48,4 @@ Use the result to choose a stanza to reflect on!
 🔁 If you roll a number above 22, roll again or reflect on a random verse from any stanza.
 
 ---
-
----
-
-## 🔄 Explore More
-
-<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 2rem 0;">
-    <a href="/tables/" style="background: #3498db; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">📚 All Tables</a>
-    <a href="/instructions/" style="background: #27ae60; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">📖 Instructions</a>
-    <a href="/" style="background: #e74c3c; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">🏠 Home</a>
-</div>
-
-<button class="back-to-top" onclick="window.scrollTo(0,0)">↑</button>
+[🔙 Back to Psalms Roll Table](/tables/psalms/)
