@@ -27,3 +27,27 @@ You can view the live version of the site at:
 3. Dice rolls optional — but encouraged 🎲
 
 ---
+# 🎲 BibleDice
+
+Welcome to **BibleDice**, a Scripture-based game for families and kids that makes reading the Bible engaging and interactive.
+
+## ✨ Features
+
+- 🎯 66 books, 1,189 chapters
+- ✅ Chapter checklists
+- ⭐ Favorite markers
+- ⛪ SPEC dice rolls (Sin, Promise, Example, Command)
+- 📖 Full reading tracker in `text/reading-tracker.txt`
+
+## 📂 Project Contents
+
+- `/text/reading-tracker.txt` — Raw reading checklist
+- `/tables/` — Structured Bible data tables
+- Future layout: Jekyll-powered website
+
+## 🌍 Live Site (when configured)
+https://funtech64.github.io/bibledice-html/
+
+---
+*Created by funtech64*
+>>>>>>> ebbca0e (readme restore)
