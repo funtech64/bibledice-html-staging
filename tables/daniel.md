@@ -2,7 +2,16 @@
 layout: default
 title: Daniel Roll Table
 permalink: /tables/daniel/
+canonical_url: https://bibledice.fun/tables/daniel.html
 ---
+
+<nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="breadcrumb-separator">→</span>
+    <a href="/tables/">Study Tables</a>
+    <span class="breadcrumb-separator">→</span>
+    <span>Daniel</span>
+</nav>
 
 # 🏰 Daniel Roll Table – The Watchtower Heights
 
@@ -63,4 +72,15 @@ Use these to reflect, re-read, or go deeper into Daniel’s witness and God’s 
 | 69   | Daniel Recap | Read a summary or revisit favorite parts            |
 
 ---
-[🔙 Back to Tables Guide](/tables/)
+
+---
+
+## 🔄 Explore More
+
+<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 2rem 0;">
+    <a href="/tables/" style="background: #3498db; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">📚 All Tables</a>
+    <a href="/instructions/" style="background: #27ae60; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">📖 Instructions</a>
+    <a href="/" style="background: #e74c3c; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">🏠 Home</a>
+</div>
+
+<button class="back-to-top" onclick="window.scrollTo(0,0)">↑</button>

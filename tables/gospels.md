@@ -2,7 +2,16 @@
 layout: default
 title: Gospels Roll Table
 permalink: /tables/gospels/
+canonical_url: https://bibledice.fun/tables/gospels.html
 ---
+
+<nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="breadcrumb-separator">→</span>
+    <a href="/tables/">Study Tables</a>
+    <span class="breadcrumb-separator">→</span>
+    <span>Gospels</span>
+</nav>
 
 # ✝️ Gospels Roll Table
 
@@ -108,6 +117,17 @@ John's Gospel offers unique theological insights and records events not found in
 | 69   | 12:1–11      | Mary's Anointing & Plot Against Lazarus |
 
 ---
-[🔙 Back to Tables Guide](/tables/)
+
+---
+
+## 🔄 Explore More
+
+<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 2rem 0;">
+    <a href="/tables/" style="background: #3498db; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">📚 All Tables</a>
+    <a href="/instructions/" style="background: #27ae60; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">📖 Instructions</a>
+    <a href="/" style="background: #e74c3c; color: white; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none;">🏠 Home</a>
+</div>
+
+<button class="back-to-top" onclick="window.scrollTo(0,0)">↑</button>
 
 Note: Special thanks to ChatGPT 4o and Claude Sonnet Extended thinking mode. I have had this fail multiple times as a prompt engineer. Claudes' extended worked over the gospels a second whole time for dice rolls 46-57 selecting theological subjects. -Jolly
