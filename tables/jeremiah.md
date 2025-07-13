@@ -1,4 +1,4 @@
-Jeremiah---
+---
 layout: default
 title: Jeremiah Roll Table
 permalink: /tables/jeremiah/

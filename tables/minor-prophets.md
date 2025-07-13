@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Jeremiah Roll Table
+permalink: /tables/minor-prophets/
+---
 # Minor Prophets Roll Table – "Rivers of the Twelve"
 
 *Twelve rivers. Twelve voices. One faithful God.*

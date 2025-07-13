@@ -1,3 +1,26 @@
+---
+layout: default
+title: Bible Reading Tracker
+permalink: /text/reading-tracker/
+---
+
+bibledice-html
+/_config.yml
+funtech64
+funtech64
+jeackyl troublesh. removing minima theme
+89b62a2
+ · 
+2 days ago
+
+Code
+
+Blame
+3 lines (3 loc) · 88 Bytes
+title: BibleDice
+description: "A dice-based Bible reading adventure"
+markdown: kramdown
+
 # Bible Reading Chart
 
 ## Old Testament (1-39)
